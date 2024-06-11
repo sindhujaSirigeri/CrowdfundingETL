@@ -1,5 +1,5 @@
 # Group 5 Project 2: Extract Transform Load (ELT) Mini Project
-Members: Sindhuja (Team Leader), Bailey, David, Uth, Wendy   
+**Members:** Sindhuja (Team Leader), Bailey, David, Uth, Wendy   
 <!-- Feel free to change this to better suit you! -->
 
 ![category DataFrame](https://www.informatica.com/content/dam/informatica-com/en/images/misc/etl-process-explained-diagram.png)
