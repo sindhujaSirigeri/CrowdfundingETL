@@ -40,3 +40,31 @@ CREATE TABLE "campaign" (
     CONSTRAINT "fk_campaign_category_id" FOREIGN KEY("category_id") REFERENCES "category" ("category_id"),
     CONSTRAINT "fk_campaign_subcategory_id" FOREIGN KEY("subcategory_id") REFERENCES "subcategory" ("subcategory_id")
 );
+
+-- COPY category(category_id, category) 
+-- FROM '..\Resources\\category.csv' 
+-- DELIMITER ',' CSV HEADER;
+
+-- COPY subcategory(subcategory_id, subcategory) 
+-- FROM '..\Resources\\subcategory.csv' 
+-- DELIMITER ',' CSV HEADER;
+
+-- COPY contacts(contact_id, first_name, last_name, email) 
+-- FROM '..\Resources\\contacts.csv' 
+-- DELIMITER ',' CSV HEADER;
+
+-- COPY campaign(cf_id, contact_id, company_name, description, goal, pledged, outcome, backers_count, country, currency, launch_date, end_date, category_id, subcategory_id) 
+-- FROM '..\Resources\\campaign.csv' 
+-- DELIMITER ',' CSV HEADER;
+
+select *
+from category;
+
+select *
+from subcategory;
+
+select *
+from contacts;
+
+select *
+from campaign;
