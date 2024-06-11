@@ -38,9 +38,6 @@ For the ETL mini project, you will work in a group to practice building an ETL p
 # **Appendices**
 
 # Project 2 - UWA Bootcamp 2024 Challenge Instructions
-
-Start Assignment
-
 -   Due  Thursday  by  23:59
 -   Points  100
 -   Submitting  a text entry box or a website url
