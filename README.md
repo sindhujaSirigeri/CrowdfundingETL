@@ -29,7 +29,8 @@ For the ETL mini project, you will work in a group to practice building an ETL p
 -   **Postgres Database**: For loading and storing the final data.
 
 <!-- I used chatgpt to write this up so if you have time please scan over it to make sure its all up to scratch -->
-===
+
+---
 # **Appendices**
 
 # Project 2 - UWA Bootcamp 2024
