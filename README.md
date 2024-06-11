@@ -37,7 +37,7 @@ For the ETL mini project, you will work in a group to practice building an ETL p
 ---
 # **Appendices**
 
-# Project 2 - UWA Bootcamp 2024
+# Project 2 - UWA Bootcamp 2024 Challenge Instructions
 
 Start Assignment
 
