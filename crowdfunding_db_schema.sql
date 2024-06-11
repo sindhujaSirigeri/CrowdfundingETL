@@ -1,5 +1,9 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 
+------------------------------------------------------------------
+--Creating Schema
+------------------------------------------------------------------
+
 CREATE TABLE "category" (
     "category_id" varchar(10) NOT NULL,
     "category" varchar(20) NOT NULL,
@@ -41,6 +45,10 @@ CREATE TABLE "campaign" (
     CONSTRAINT "fk_campaign_subcategory_id" FOREIGN KEY("subcategory_id") REFERENCES "subcategory" ("subcategory_id")
 );
 
+------------------------------------------------------------------
+--Importing Data
+------------------------------------------------------------------
+
 -- COPY category(category_id, category) 
 -- FROM '..\Resources\\category.csv' 
 -- DELIMITER ',' CSV HEADER;
@@ -56,6 +64,10 @@ CREATE TABLE "campaign" (
 -- COPY campaign(cf_id, contact_id, company_name, description, goal, pledged, outcome, backers_count, country, currency, launch_date, end_date, category_id, subcategory_id) 
 -- FROM '..\Resources\\campaign.csv' 
 -- DELIMITER ',' CSV HEADER;
+
+------------------------------------------------------------------
+--Checking Tables
+------------------------------------------------------------------
 
 select *
 from category;
