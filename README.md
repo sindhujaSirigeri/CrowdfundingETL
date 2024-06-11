@@ -1,6 +1,10 @@
 # Group 5 Project 2: Extract Transform Load (ELT) Mini Project
 Members: Sindhuja (Team Leader), Bailey, David, Uth, Wendy   
 <!-- Feel free to change this to better suit you! -->
+
+![category DataFrame](https://www.informatica.com/content/dam/informatica-com/en/images/misc/etl-process-explained-diagram.png)
+[Image Source](https://www.informatica.com/au/resources/articles/what-is-etl.html) 
+
 ## Overview
 
 For the ETL mini project, you will work in a group to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, you'll create four CSV files and use the CSV file data to create an Entity Relationship Diagram (ERD) and a table schema. Finally, you’ll upload the CSV file data into a Postgres database.
