@@ -1,4 +1,4 @@
-# Group 5 Project 2: *E*xtract *T*ransform *L*oad Mini Project
+# Group 5 Project 2: Extract Transform Load (ELT) Mini Project
 Members: Sindhuja (Team Leader), Bailey, David, Uth, Wendy   
 <!-- Feel free to change this to better suit you! -->
 ## Overview
