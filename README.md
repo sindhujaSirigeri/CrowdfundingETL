@@ -1,5 +1,5 @@
-# Group 5 Project 2: ETL Mini Project
-Members: Sindhuja, Wendy, David, Uth, Bailey 
+# Group 5 Project 2: **E**xtract **T**ransform**L**oad Mini Project
+Members: Sindhuja (Team Leader), Bailey, David, Uth, Wendy   
 <!-- Feel free to change this to better suit you! -->
 ## Overview
 
